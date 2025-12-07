@@ -949,7 +949,7 @@
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "ae5evu305w6wwf"
+        "uid": "${datasource}"
       },
       "fieldConfig": {
         "defaults": {
@@ -1023,7 +1023,7 @@
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "ae5evu305w6wwf"
+        "uid": "${datasource}"
       },
       "fieldConfig": {
         "defaults": {
@@ -1081,7 +1081,7 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "ae5evu305w6wwf"
+            "uid": "${datasource}"
           },
           "editorMode": "code",
           "exemplar": false,
